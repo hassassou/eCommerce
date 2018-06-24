@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
+  <h1>The Name of ALLAH</h1>
   $END$
   </body>
 </html>
